@@ -44,20 +44,12 @@ The insights can help logistics companies optimize delivery costs, increase prof
 
 ## 🛠 Tools & Technologies
 - **Python:** pandas, numpy, matplotlib, seaborn
-- **Tableau:** Interactive dashboard for cost & profitability insights
 - **Jupyter Notebook:** Data cleaning, processing, and analysis
 
 ---
 
-## 📈 Visualizations
-- Cost vs. Distance Analysis
-- City-wise Margin Heatmap
-- Top N High-Cost Routes
-- Revenue & Payout Trends
+
 
 ---
 
-## 🚀 How to Run
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/your-username/logistics-cost-profitability.git
+
